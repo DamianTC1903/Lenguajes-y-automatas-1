@@ -88,34 +88,34 @@ El paquete incluye las siguientes clases:
 <!-- GETTING STARTED -->
 ## Empezando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Descargue el ultimo paquete de los lanzamientos
 
 ### Prerequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Plataforma de desarrollo java eclipse (preferiblemente pero puede usar otro IDE) y JDK 8 o superior.
+
+1. Descargue [eclipse](https://www.eclipse.org/downloads/)
+2. Descargue [Java SE 8](https://www.oracle.com/mx/java/technologies/javase/javase8-archive-downloads.html)  o [Java SE+](https://www.oracle.com/java/technologies/java-se-glance.html)
+
+
   ```sh
-  npm install npm@latest -g
+  _______________
   ```
 
 ### Instalacion
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Descomprima el archivo en su carpeta preferida
+Importe un proyecto de Eclipse para la guía de aprendizaje de UCM.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Para importar:
+
+En Eclipse:
+1. Pulse Archivo > Importar.
+2. En la página Seleccionar del recuadro de diálogo Importar, seleccione Proyectos al Espacio de trabajo en el recuadro de lista Seleccionar un origen de importación y pulse Siguiente.
+3. En la página Importar proyectos del recuadro de diálogo Importar, verifique si la opción Seleccionar directorio raíz está seleccionada y, a continuación , pulse el botón Examinar de esta opción.
+4. En el recuadro de diálogo Examinar para buscar carpeta, vaya a la ubicación de almacenamiento.
+5. Seleccione la carpeta (aqui el nombre puede variar) en el recuadro de lista Proyectos del recuadro de diálogo Importar proyectos.
+Pulse Finalizar.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
