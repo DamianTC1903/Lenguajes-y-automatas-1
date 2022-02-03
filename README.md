@@ -106,11 +106,8 @@ Plataforma de desarrollo java eclipse (preferiblemente pero puede usar otro IDE)
 ### Instalacion
 
 Descomprima el archivo en su carpeta preferida
-Importe un proyecto de Eclipse para la guía de aprendizaje de UCM.
 
-Para importar:
-
-En Eclipse:
+Importe un proyecto en Eclipse:
 1. Pulse Archivo > Importar.
 2. En la página Seleccionar del recuadro de diálogo Importar, seleccione Proyectos al Espacio de trabajo en el recuadro de lista Seleccionar un origen de importación y pulse Siguiente.
 3. En la página Importar proyectos del recuadro de diálogo Importar, verifique si la opción Seleccionar directorio raíz está seleccionada y, a continuación , pulse el botón Examinar de esta opción.
